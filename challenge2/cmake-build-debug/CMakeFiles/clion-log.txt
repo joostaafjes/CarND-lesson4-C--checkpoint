@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2/cmake-build-debug

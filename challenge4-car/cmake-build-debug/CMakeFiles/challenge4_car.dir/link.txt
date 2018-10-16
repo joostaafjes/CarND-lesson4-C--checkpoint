@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/challenge4_car.dir/main.cpp.o CMakeFiles/challenge4_car.dir/Car.cpp.o  -o challenge4_car 

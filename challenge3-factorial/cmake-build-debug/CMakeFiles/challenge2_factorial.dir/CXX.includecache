@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge3-factorial/Factorial.cpp
+Factorial.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge3-factorial/Factorial.h
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge3-factorial/Factorial.h
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge3-factorial/main.cpp
+iostream
+-
+Factorial.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge3-factorial/Factorial.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2/./PrintString.h
+string
+-
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2/PrintString.cpp
+iostream
+-
+string
+-
+./PrintString.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2/./PrintString.h
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2/main.cpp
+iostream
+-
+./PrintString.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge2/./PrintString.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge5-doubler/Doubler.cpp
+Doubler.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge5-doubler/Doubler.h
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge5-doubler/Doubler.h
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge5-doubler/main.cpp
+iostream
+-
+Doubler.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge5-doubler/Doubler.h
+

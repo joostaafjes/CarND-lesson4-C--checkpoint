@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge4-car/Car.h
+
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge4-car/main.cpp
+Car.h
+/Users/joost/Projects/udacity/sdce/lesson4-C++-checkpoint/challenge4-car/Car.h
+
